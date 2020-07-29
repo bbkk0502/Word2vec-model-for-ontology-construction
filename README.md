@@ -20,7 +20,7 @@ Demonstration Environments refer to all facilities and environments for technolo
  * extractTXT.sh is a shell script for batch extracting texts from PDF files stored in a folder. For usage, put this script in the target folder, and use Terminal (MAC OS) or Command-line (Windows) to run the script.
  * ConceptCluster.xlsx is a spreadsheet storing concept hierarchy build in Algorithm 3 (see algorithm.py in DEOntologyTextMining foler.
  * skipg.model is the trained SKIP-G model that was used in the thesis. This can be loaded for direct use (see algorithm.py in DEOntologyTextMining foler for usage)
-
+ * wod2vec_visualisation.ipynb is a python notebook for similar words visualisation using TSNE plot.
 # Feedback
 Please report bugs or send feedbacks to wn230@cam.ac.uk. 
 
