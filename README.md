@@ -7,6 +7,7 @@ These codes are developed by Nie Wei a MPhil student at the Institute for Manufa
 
 # Project Introduction
 This thesis aims to develop an ontology for Demonstration Environments by using a semi-automatic approach: text mining. The developed ontology is available at https://github.com/bbkk0502/Demonstration-Environments-Ontology-Version1.0
+
 Demonstration Environments refer to all facilities and environments for technology development including testing, prototyping and confronting technology with different usage situations (e.g. testbed, pilot plant, living lab, sandbox, etc.)
 
 # File Introduction
