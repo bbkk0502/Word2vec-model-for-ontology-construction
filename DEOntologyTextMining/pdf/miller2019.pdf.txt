@@ -1,0 +1,1237 @@
+RESEARCH  ARTICLE
+
+Impact  of  a  pilot  laboratory
+safety  team  workshop
+
+Recurring  academic  laboratory  accidents  and  a  lack  of  consensus  about  the  best  approach  to  chemical  safety
+culture  education  has  led  to  the  development  of  laboratory  safety  team  (LST)  programs  at  many  research
+institutions  in  the  United  States.  LSTs  are  collaborative  groups  that  seek  to  improve  the  safety  culture  within
+a  department  or  multiple  departments.  They  usually  consist  of  a  partnership  between  departmental  faculty,
+staff,  and  students  and  have  the  goal  of  providing  concrete  opportunities  for  all  of  these  stakeholders  to
+continuously  improve  safety  practices  within  their  department.  These  programs  also  offer  a  supplementary
+form  of  safety  education  that  is  designed  to  ﬁt  the  speciﬁc  culture  and  needs  of  each  institution.  As  these
+programs  have  developed  in  a  variety  of  institutions,  best  practices  for  forming  and  maintaining  LSTs  have
+begun  to  emerge.  In  order  to  better  understand  these  best  practices,  we  developed  a  pilot  workshop  for  the
+255th  National  American  Chemical  Society  Meeting  audience  to  provide  attendees  with  the  knowledge  and
+resources  to  go  back  to  their  home  institutions  and  establish  LSTs  or  similar  programs.  To  understand  the
+effectiveness  of  this  pilot  workshop,  we  conducted  a  small  survey  of  the  attendees  at  the  ﬁrst  presentation.
+Questionnaires  before  and  after  the  workshop  show  that  the  workshop  was  well  received  overall.  Parti-
+cipants  became  more  conﬁdent  in  their  ability  to  teach  others  about  safety  and  gained  an  improved
+understanding  of  safety  topics  and  resources.  There  is  also  evidence  that  the  workshop  changed  participants
+perception  on  their  own  career  values  and  their  institution’s  values  on  laboratory  safety.  These  results  are
+promising  and  give  us  hope  that  programs  such  as  this  can  be  a  useful  platform  for  safety  education.
+
+By  Kali  A.  Miller,  Kaitlin  I.  Tyler
+
+INTRODUCTION
+
+Recurring  laboratory  accidents  over  the
+years  have  drawn  attention  to  the  ques-
+tion  of  whether  adequate  training  in
+laboratory  safety  is  provided  to  students
+and  researchers  at  academic  institu-
+tions.1,2 One  outcome  of  this  longstand-
+ing  debate  is  the  suggestion  that  labora-
+tory  safety  can  potentially  be  integrated
+in  a  chemist’s  higher  education  in  vari-
+ety  of  ways.  Examples  of  potential
+approaches  include:  inclusion  through-
+out  the  classroom  and  laboratory  cur-
+
+ 
+
+ 
+
+A.
+
+Miller
+
+Kali
+  is  afﬁliated  with  the
+Department  of  Chemistry,  University
+of 
+Illinois  at  Urbana-Champaign,
+Urbana,  Illinois  61801,  United  States
+(e-mail:  mille138@illinois.edu).
+
+ 
+
+ 
+
+I.
+
+Tyler
+
+Kaitlin
+  is  afﬁliated  with  the
+Department  of  Materials  Science  and
+Engineering,  University  of  Illinois  at
+Urbana-Champaign,  Urbana,  Illinois
+61801,  United  States.
+
+riculum,  taught  as  a  separate  class,
+introduced  as  a  seminar  topic,  by  pro-
+grams  within  each  research  group,  or  a
+variety  of  less  traditional  methods.3–9 A
+particular  challenge  identiﬁed  in  this
+debate  is  that  safety  education  involves
+development  of  both  technical  and  cul-
+tural 
+skills.  Traditionally,  chemical
+safety  education  has  focused  on  the
+development  of  technical  skills.  How-
+ever,  the  required  technical  skills  vary
+widely  depending  on  the  chemistries
+that  are  being  studied.  This  variety  chal-
+lenges  the  development  of  a  consistent
+safety  culture  within  academic  depart-
+ments  and  leads  to  a  lack  of  consensus
+about  appropriate  safety  practices  and
+education requirements. Thus,  the  ques-
+tion  is  raised:  what  can  be  standardized
+in  safety  education,  given  the  distinct
+needs  and  culture  of  each  institution?10
+laboratory  safety
+teams  (LSTs)  have  emerged  across
+the  United  States  as  a  potentially  effec-
+tive  way  for  improving  safety  culture,
+particularly  in  institutions  with  large
+cohorts  of 
+in
+research.11,12 These  teams  offer  a  sup-
+plementary  approach  to  safety  educa-
+tion  that  is  designed  to  ﬁt  the  speciﬁc
+culture  and  needs  of  each  institution.
+
+this  context, 
+
+involved 
+
+students 
+
+In 
+
+LSTs  often  take  the  form  of  a  collabo-
+rative  group  of  students,  faculty,  and
+safety  professionals  that  meet  on  a  reg-
+ular  basis  to  improve  the  safety  culture
+in  a  given  department  or  multiple
+departments.  However,  the  organiza-
+tional  structure  and  objectives  of  the
+team  can  vary  widely  depending  on  the
+institution’s  organizational  structure,
+needs,  and  resources.
+
+resources 
+
+Typical  team  features  can  include:
+appointment  of  safety  representative
+(s)  from  research  groups  in  the  depart-
+ment,  campaigns  to  raise  awareness  of
+safety  concerns  throughout  the  depart-
+ment  (e.g.,  safety  moments  and  hall-
+way  posters),  peer 
+laboratory  walk-
+throughs,  providing 
+for
+students  to  practice  research  safely
+(e.g.,  pre-arranged  safety  kits  and  peer
+consultation), 
+safety
+trainings,  and  an  open  conversation
+about  safety  in  the  research  labs.  It  is
+important  to  note  that  LSTs  do  not
+take  responsibility  for  enforcement  of
+regulatory  compliance 
+these
+teams  should  instead  focus  on  creation
+of  a  culture  where  safety  is  seen  as
+fundamental  value  to  every  researcher
+and  is  included  throughout  the  scien-
+tiﬁc  method.13–15
+
+supplemental 
+
+issues; 
+
+20 
+
+  2019  Division  of  Chemical  Health  and  Safety  of  the  American  Chemical  Society.  Published  by  Elsevier  Inc.
+
+ã
+All  rights  reserved.
+
+1871-5532
+https://doi.org/10.1016/j.jchas.2018.12.003
+
+is 
+
+that 
+
+less  consistent  than 
+
+Because  academic  laboratory  safety
+culture 
+that
+found  in  government  and  industry,16,17
+there  has  been  much  recent  interest
+from  industry  to  support  the  develop-
+ment  of  LSTs.  Not  only  does  industrial
+involvement  in  these  efforts  improve
+the  safety  knowledge 
+industry
+relies  upon,  but  it  also  teaches  future
+employees  the  importance  of  a  safe
+research  culture.  As  academic/indus-
+try  collaborations  become  more  pre-
+valant,11,18 the  American  Chemical
+Society  (ACS)  has  identiﬁed  a  need
+to  support  these  programs.  Leadership
+development  opportunities  have  been
+shown  to  be  an  effective  method  to
+create  lasting  change  in  academic  insti-
+tutions.19,20 For 
+these  reasons,  we
+describe  the  content  and  outcomes  of
+a  pilot  workshop  designed  to  equip
+students  with  the  resources  they  need
+to  become  an  advocate  for  laboratory
+safety  at  their  home  institutions.
+
+WORKSHOP  CONTENT
+
+three-hour  workshop 
+
+included
+This 
+three  educational  topics  that  culmi-
+nate  with  an  LST  planning  session
+(Figure  1).  The  purpose  of  this  work-
+shop  organization  was  ﬁrst  to  focus  on
+ﬁlling  gaps  in  the  participant’s  techni-
+cal  and  cultural  safety  education  as
+well  as  teaching  participants  about
+the  general  concepts  of  safe  research
+practices 
+institutions.
+After  ensuring  all  participants  have
+this  solid  foundation,  they  were  intro-
+duced  to  the  idea  of  LSTs  and  given  the
+opportunity  to  discuss  how  these  safety
+teams  might  work  at  their  own  institu-
+tions.  All  activities  took  place  in  small
+round  table  groups  for  20–40  min  each
+with  the  assistance  of  two  moderators.
+
+in  academic 
+
+After  each 
+topic,  participants  were
+given  the  opportunity  to  ask  questions
+and  reﬂect  with  the  group  as  a  whole.
+
+Topic  1:  Safety  Education
+A  few  examples  of  laboratory  accidents
+were  used  to  open  the  workshop  and
+emphasize  the  importance  of  labora-
+tory  safety  in  academic  institutions  and
+how  it  compares  to  industrial  stan-
+dards.  Participants 
+about
+topics  such  as  hazard  assessments,
+operational  risk  management,  hierar-
+chy  of  controls,  and  the  model  of  acci-
+dent  causation.  Then,  each  team  dis-
+cussed  hurdles  that  students  may  face
+when  performing  risk  assessments  and
+created  scenarios  in  which  laboratory
+accidents  would  occur.
+
+learned 
+
+shared 
+
+organization’s 
+
+the  organization  relative 
+
+Topic  2:  Academic  Safety  Culture
+Academic  safety  culture  is  deﬁned  as
+an 
+values,
+assumptions,  and  beliefs  speciﬁc  to
+workplace  safety.  Or,  more  simply,  it
+is  deﬁned  as  the  importance  of  safety
+within 
+to
+other  priorities.14 After  a  discussion
+of  the  meaning  of  safety  culture,  each
+participant  was  assigned  to  reﬂect  on
+their  own  institution’s  current  labora-
+tory  safety  environment.  Participants
+then  shared  their  opinions  on  what
+an  ideal  safety  culture  should  be,  what
+changes  could  be  made  in  their  current
+institution,  and  the  limitations  of  their
+current 
+institution.  Emphasis  was
+placed  on  relevant  occupational  safety
+practices  and  strategies  for  organiza-
+tional  change.
+
+Topic  3:  Institution  Organizational
+Hierarchy
+The  third  topic  was  added  to  give  per-
+spective  to  students  that  may  not  be
+familiar  with 
+organizational
+
+the 
+
+Figure  1.  Workshop  strategy  for  developing  laboratory  safety  team  (LST)  leaders.
+
+structure  of  academic  institutions.  Par-
+ticipants  worked  together  to  deﬁne  the
+responsibilities  and  limitations  of  six
+groups  of  people  relating  to  laboratory
+safety:  (1)  researchers  and  students,  (2)
+environmental  health  and  safety  pro-
+fessionals,  (3)  principal  investigators,
+(4)  department  chairs,  (5)  vice  presi-
+dents  of  research  and  deans,  and  (6)
+presidents,  chancellors,  or  provosts.14
+For  example,  researchers  have  the  abil-
+ity  to  identify  day-to-day  safety  pro-
+blems  within  the  laboratory  but  have
+limited  control  over  funding  for  safer
+laboratory  equipment.
+
+last  activity  of 
+
+Topic  4:  Laboratory  Safety  Teams
+The 
+the  workshop
+focused  on  developing  individualized
+plans  for  the  creation  or  improvement
+of  LSTs.  Students  discussed  the  history
+of  LSTs,  what  is  currently  practiced  at
+their 
+institutions,  shared  successful
+programs  from  other  institutions,  and
+formulated  plans  for  their  own  safety
+team.  For  example,  what  leadership
+structure  should  your 
+team  have?
+Who  is  part  of  the  team  leadership?
+What  resources  will  your  team  offer
+students  in  the  department?  How  will
+you  incentivize  good  practices?  Con-
+sideration  was  also  given 
+to  cases
+where  other  types  of  safety  programs
+are  more  appropriate  than  LSTs.
+
+Survey  Questions
+To  assess  the  value  of  the  workshop  to
+the  attendees,  two  surveys  were  given
+(one  before  and  one  after  the  work-
+shop).  This  study  was  created  to  give
+an  understanding  of  participant  opi-
+nions  before  and  after  attending  a
+safety  workshop  at  the  Spring  2018
+National  ACS  Meeting 
+in  New
+Orleans,  LA.  The  analyzed  surveys
+were 
+reviewed  and  approved  by
+UIUC’s  Institutional  Review  Board  as
+appropriate  for  use  with  human  sub-
+jects.  There  were  22  participants  from
+15  different  institutions  that  attended
+the  workshop.  Participation  was  open
+to  students,  faculty,  staff,  and  safety
+professionals.  For  the  purpose  of  this
+analysis,  only  the  student  participants
+(N  =  15)  were  included  in  this  study.
+All  student  participants  were  actively
+involved 
+in  academic  research.  We
+analyzed  52  questions  grouped  into
+the 
+categories:
+
+following 
+
+Journal  of  Chemical  Health  &  Safety,  May/June  2019 
+
+21
+
+demographics 
+(7,  pre-survey  only),
+personal  safety  (15),  safety  culture  in
+current  program 
+(9),  opinions  on
+chemical  safety  education  (10),  and
+workshop  evaluation  (10,  post-survey
+only).  The  questions  were  developed
+based  on  the  topics  covered  in  the
+workshop  and  as  well  as  motivations
+for 
+safety
+programs.
+
+involvement 
+
+student 
+
+in 
+
+on 
+
+the 
+
+pre/post 
+
+signiﬁcant 
+
+determined 
+
+  0.05.21 For 
+
+to  each  question 
+
+Likert  scales  were  used  for  each  ques-
+tion  such  that  participants  ranked  their
+response 
+from  1
+(strongly  disagree)  to  5  (strongly  agree).
+Mean  and  standard  error  values  were
+used  when  displaying  this  data  in  the
+paper.  Statistical  analysis  was  per-
+formed 
+survey
+responses  to  determine  if  signiﬁcant
+changes  occurred.  The  Student’s  two-
+tailed  paired  t-test  was  used,  and  values
+were 
+at
+p 
+signiﬁcant  ﬁndings,
+Cohen’s  d  values  were  calculated  to
+classify 
+trivial
+<
+<
+  d 
+(0 
+  0.5),
+moderate 
+large
+  0.8).22,23 Cronbach’s  alpha  (a  mea-
+(d 
+sure  of  internal  consistency)  was  also
+calculated  for  all  pre/post  Likert  scale
+responses  and  found  to  be  high  for  both
+the  pre-survey  (0.84)  and  post-survey
+(0.82).24 All other  post-survey  questions
+were  reported  as  100%  stacked  column
+charts 
+response
+distribution.
+
+  d 
+  0.8),  or 
+
+to  emphasize 
+
+small 
+<
+<
+
+effect 
+
+sizes 
+
+as 
+<
+
+(0.2 
+
+<
+
+<
+
+>
+
+  0.2), 
+
+(0.5 
+
+  d 
+
+the 
+
+OUTCOMES
+
+Description  of  Participants
+Because  students  self-select  to  partici-
+pate  in  this  workshop,  initial  questions
+were  used  to  give  insight  into  the  stud-
+ied  population  (Figure  2).  It  should  be
+noted 
+that  participants  were  com-
+prised  mostly  of  graduate  students,
+with  a  few  postdocs  and  undergradu-
+ates  interested  in  academic  careers.  In
+addition,  participants  mostly  attended
+Research  1  Institutions  (R1)  for  their
+safety  training  with  some  participants
+from  Research  2  Institutions  (R2)  and
+Primarily  Undergraduate  Institutions
+(PUI).25 Given  that  LSTs  originated
+to 
+the 
+in
+is
+research-intensive 
+possible  that  increased  awareness  of
+these 
+higher
+
+safety  culture 
+it 
+institutions, 
+
+programs 
+
+improve 
+
+caused 
+
+Figure  2.  (a)  Breakdown  of  current  education  level  of  participants.  (b)  Breakdown  of
+institutions  where  students  received  a  majority  of  their  safety  training  (self-
+reported).
+
+rates.  However, 
+
+attendance 
+these
+results  are  more  likely  from  a  disparity
+in  accessibility  to  National  ACS  Meet-
+ings.  Development  of  more  accessible
+programs  in  the  future  (e.g.,  webinars
+or  online  modules) 
+is  necessary  to
+reach  and  meet 
+the  needs  of  all
+institutions.
+
+Within  this  population  of  students,
+many  were  interested  in  starting  safety
+teams  at  their  own  institutions.  Before
+the  workshop,  93%  of  participants  did
+not  believe  they  do  not  have  time  for
+laboratory  safety  and  100%  of  partici-
+pants  did  not  believe  that  they  should
+not  be  responsible  for  the  safety  of
+others  (Figure  3).  Additionally,  80%
+of  participants  thought  they  had  good
+safety  practices  in  the  lab  and  80%
+thought  they  regularly 
+incorporated
+risk  management  into  the  design  of
+their  own  experiments.  Despite  these
+participants  having  a  largely  positive
+safety  outlook  and  practices,  73%  still
+
+wanted  more  training.  These  responses
+suggest  that  the  participants  were  a
+highly  motivated  group  of  students
+and  that  their  current  educational  pro-
+grams  did  not  include  adequate  safety
+instruction  for  their  purposes.
+
+Impact  of  Workshop  on  Participant
+Conﬁdence
+Survey  results  suggest  that  participants
+gained  valuable  resources  to  take  back
+to  their  own  institutions.  When  asked
+what  part  of  the  workshop  was  most
+beneﬁcial,  one  student  said  it  was  the
+“role  of  administration  in  safety  and
+beneﬁts  of  establishing  university  wide
+safety  programs.”  Other  students  said,
+“I  was  unaware  of  the  different  groups
+on  each  campus  that  promote  safety”
+and  “I  did  not  realize  the  admin  staff  of
+any  institution  would  ever  have  a  role  to
+play  in  laboratory  safety.”  Based  on  t-
+test  results  and  the  Cohen’s  d  values,
+we  can  say  that  our  workshop  had  a
+
+Figure  3.  Respondents’  answers  to  the  pre-survey  question:  (a)  “I  don’t  have  time
+to  think  about  chemical  safety,”  (b)  “I’m  not  responsible  for  the  safety  of  others,”  (c)
+“I  have  good  safety  practices  in  the  lab,”  (d)  “I  regularly  incorporate  risk  manage-
+ment  into  the  design  of  my  own  experiments,”  and  (e)  “I  need  more  training  in
+chemical  safety.”
+
+22 
+
+Journal  of  Chemical  Health  &  Safety,  May/June  2019
+
+moderate  effect  on  instructing  partici-
+pants  on  where  to  seek  out  more  infor-
+mation (Figure 4a), a large effect on their
+individual  conﬁdence  as  safety  leaders
+(Figure  4b),  and  a 
+large  effect  on
+participants’  knowledge  of  what  a
+chemical 
+safety  professional  does
+(Figure  4c).  The  increase  in  students’
+knowledge  on  where  to  go  to  learn
+about  chemical  safety  (Figure  4a)  was
+less  than  expected.  However,  this  may
+simply  be  because  participants  were
+already  relatively  knowledgeable  about
+chemical  safety  resources.  It  is  interest-
+ing  to  note  that  their  opinion  of  their
+needed 
+training
+(Figure  4d)  did  not  signiﬁcantly  change.
+This  suggests  that  even  with  additional
+training,  these  participants  still  wanted
+to  learn  more  about  chemical  safety  and
+continue  to  improve  their  laboratory
+safety  culture.  Additionally,  their  com-
+fort  in  asking  their  labmates  to  improve
+their 
+(Figure  4e)
+increased  but  did  not  signiﬁcantly
+change,  suggesting  that  these  students
+already  had  supportive  labmates.
+
+safety  practices 
+
+safety 
+
+level 
+
+of 
+
+
+
+(4.40 
+
+Laboratory  safety  leaders  must  have
+conﬁdence  to  seek  out  chemical  safety
+knowledge  to  lead  necessary  change
+within 
+their  own  research  groups.
+When  asked  who  they  would  be  com-
+fortable  going  to  with  safety-related
+questions,  participants  were  most
+comfortable  approaching  colleagues
+(pre-survey  Likert  scale  average  of
+4.73 
+  0.46),  then  principal  investiga-
+
+tors  (PI,  4.66 
+  0.62),  and  least  com-
+fortable  approaching  EH&S  profes-
+
+sionals 
+these
+results  and  those  in  Figure  4a–d,  we
+can  postulate  that  while  the  workshop
+helped  participants  gain  conﬁdence  in
+their  personal  chemical  safety  knowl-
+edge  and  leadership  ability,  many  were
+still  not  comfortable  approaching  peo-
+ple  above  their  institutional  hierarchy.
+It  is  possible  that  the  presence  of  an
+LST  at  their  institution  will  help  bridge
+this  gap  because  it  will  create  a  sup-
+portive  and  informal  environment  for
+students 
+interact  with  PI’s  and
+EH&S  professionals  regarding  labora-
+tory  safety  matters.
+
+  0.83).  From 
+
+to 
+
+Change  in  Perception  of  Institution
+Values
+Institutional culture can  play a large role
+in  enabling  students  as  safety  leaders
+
+Figure  4.  Respondents’  answers  to  the  question:  (a)  “I  know  where  to  go  if  I  want  to
+learn  more  about  chemical  safety”  (p
+  =  0.56),  (b)  “I  could  teach
+others  about  chemical  safety  (p
+  =  1.1),”  (c)  “I  am  familiar  with
+what  a  chemical  safety  professional  does”  (p
+  =  1.07),  (d)  “I  need
+more  training  in  chemical  safety,”  and  (e)  “I  am  comfortable  encouraging  my  lab-
+mates  to  improve  their  safety  practices.”
+
+  =  0.002,  Cohen’s 
+
+  =  0.026,  Cohen’s 
+
+  =  0.001,  Cohen’s 
+
+d
+
+d
+
+d
+
+because  even  the  most  motivated  stu-
+dents  can  be  discouraged  by  not  being
+able  to  enact  change.  For  example,  if  the
+participants  feel  that  their  contributions
+to  safety  within  their  institution  are  not
+valued,  it  would  diminish  their  conﬁ-
+dence  and  motivation  to  be  a  leader.
+Based  on  t-test  results  and  the  Cohen’s
+d  values,  we  can  say  that  our  workshop
+had  a  moderate  negative  effect  on  what
+participants 
+their
+institution’s  safety  values  (Figure  5a),
+
+thought 
+
+of 
+
+a  moderate  negative  effect  on  whether
+they  had  the  resources  they  need  from
+their  institution  to  practice  research
+safely  (Figure  5b),  and  a  large  negative
+effect  on  whether  participants  though
+their  institution  had  an  organized  safety
+program 
+different 
+labs
+(Figure  5c).  These  results  are 
+likely
+due  to  the  participants  new  perspective
+on  what  can  and  has  been  done  at  other
+academic  institutions  to  promote  a  safe
+research  culture.  Thus, 
+is  not
+
+across 
+
+it 
+
+Figure  5.  Respondents’  answers  to  the  question:  (a)  “My  institution  values  labora-
+tory  safety”  (p
+  =  0.53),  (b)  “I  have  the  resources  I  need  from  my  institu-
+tion  to  practice  research  safely”  (p
+  =  0.74),  and  (c)  “My  institution  has
+organized  chemical  safety  programs  across  different  labs”  (p
+
+  =  0.003, 
+
+  =  0.004, 
+
+  =  0.048, 
+
+  =  0.88).
+
+d
+
+d
+
+d
+
+Journal  of  Chemical  Health  &  Safety,  May/June  2019 
+
+23
+
+necessarily  negative  that  students  have
+these  changing  perceptions  because
+they  are  now  better  equipped  to  make
+improvements  on  the  safety  culture  at
+their  own  institutions  after  seeing  what
+changes  can  be  made.  As  more  LSTs
+develop,  it  will  be  important  that  the
+students,  faculty,  safety  professionals,
+and  administration 
+their
+strengths  and  limitations  to  create  a
+culture  where  everyone  works  together
+to  push  for  a  safe  research  and  labora-
+tory  environment.  As  one  student  put  it,
+improving  safety  programs  at  their  own
+institution  means  “develop[ing]  a  safety
+culture  through  increasing  communica-
+tion  of  safety  in  ALL  labs.”
+
+recognize 
+
+Career  Value  of  Laboratory  Safety
+Due  to  the  aforementioned  growing
+interest  in  student  safety  training  and
+LST  development  from  industries,  we
+hoped  that  topics  1  (safety  education)
+and  4  (history  and  examples  of  LSTs)
+of  this  workshop  would  emphasize  the
+importance  of  safety  as  a  core  value
+when  entering  the  workforce.  Several
+questions  were  asked  after  the  work-
+shop  to  understand  participant  opi-
+nions  regarding 
+importance  of
+chemical  safety  for  their  career  (Fig-
+ure  6)  and  all  participants  saw  the
+value  of  understanding  lab  safety,  both
+for  their  personal  career  (100%)  and
+for  their  resumes  (100%).  We  see  this
+as  a  promising  result  that  speaks  to  the
+potential  for  these  students  to  become
+successful 
+their  own
+
+leaders 
+
+the 
+
+at 
+
+Figure  6.  Respondents’  answers  to  the  post-survey  question:  (a)  “Understanding
+lab  safety  will  get  me  a  job,”  (b)  “I  think  employers  value  seeing  chemical  safety
+experiences  when  recruiting,”  and  (c)  “I  am  interested  in  chemical  safety  as  a
+career.”
+
+institutions  because  understanding
+why  laboratory  safety  is  important  will
+help  them  teach  others.  Additionally,
+while  this  was  not  the  purpose  of  the
+workshop,  we  also  asked  about  partic-
+ipant  interest  in  chemical  safety  as  a
+career.  Most  did  not  see  it  as  a  viable
+career  path,  with  33%  negative
+response  and  30%  neutral  response.
+However,  47%  of  participants  positive
+response.  It  is  interesting  to  show  that
+so  many  of  these  students  have  an
+open  mind  for  safety  as  a  career  option
+and  suggests  an  untapped  market  for
+future  safety  professionals.
+
+Overall  Workshop  Success
+In  planning  for  future  workshops,  we
+asked  several  questions  relating  to
+
+that 
+
+skills 
+
+(Figure 
+
+7).  We 
+
+thought 
+them 
+
+table  about  safety 
+
+participant  opinions  on  workshop
+success 
+found
+responses  that  were  promising  with
+regards  to  the  longevity  of  this  pro-
+gram.  Participants  would  recommend
+this  workshop  to  others  (93%  posi-
+tive  response)  and  thought  the  topics
+were  relevant  and  activities  in  each
+topic  were  useful  (100%).  Addition-
+ally,  participants 
+the
+workshop  gave 
+that
+would  help 
+in  their  career  (87%).
+One  student  summarized  their  expe-
+rience  as  “I  really  enjoyed  talking
+with  my 
+issues
+and  how  they  handled  them.  I  just
+want  to  see  workshops  like  this  more
+often.”  One  area 
+that  could  be
+improved  is  that  only  64%  of  partici-
+pants  thought  the  workshop  helped
+them  develop  a  clear  plan  to  improve
+or  develop  a  program  at  their  own
+institution,  with  all  other  participants
+having  a  neutral  response.  A  large
+reason  for  this  is  possibly  the  over-
+whelming  variety  of  structure  and
+goals  of  current  LSTs.  Although  we
+previously  mentioned  this  as  positive
+attribute  of  LSTs  because  it  will  help
+to  ﬁll  gaps  in  institutional  shortcom-
+ings  relating  to  laboratory  safety,  it
+could  make  starting  a  new  program  a
+daunting  task.  This  problem  could  be
+circumvented  in  the  future  by  devel-
+oping  more  interactive  resources  to
+help  new  student 
+leaders  navigate
+these  options  and  chose  LST  features
+that  are  most  useful  for  their  own
+institution  (e.g.,  online  modules  or
+decision-making  questionnaires).
+
+Figure  7.  Respondents’  answers  to  the  post-survey  question:  (a)  “I  would  recom-
+mend  this  workshop  to  others,”  (b)  “Topics  were  relevant  and  activities  in  each  topic
+were  useful,”  (c)  “This  workshop  gave  me  skills  that  will  help  me  in  my  career,”  and
+(d)  “This  workshop  helped  me  develop  a  clear  plan  to  improve  or  develop  a  program
+at  my  own  institution.”
+
+24 
+
+Journal  of  Chemical  Health  &  Safety,  May/June  2019
+
+Limitations
+While  these  results  are  quite  promis-
+ing,  there  are  a  few  limitations  to  con-
+sider.  One 
+is  that  our  sample  size
+(N  =  15)  makes  it  hard  to  make  large
+claims.  Additionally,  our  population  is
+self-selected  to  attend  the  workshop,
+meaning  they  already  have  a  high  level
+of  interest  in  the  topic.  Results  may
+change  if  this  workshop  was  a  manda-
+tory  event  at  another  venue.  Along  the
+same 
+line,  populations  will  change
+every  time  a  workshop  is  offered  and
+discrepancies 
+subsequent
+workshops  are  possible.  These  topics
+are 
+later
+workshop  analyses  or  when  applied
+to  studies  on  other  programs.
+
+to  consider 
+
+important 
+
+between 
+
+in 
+
+CONCLUSIONS
+
+to 
+
+We  described  the  reasons  for  and  con-
+tent  of  a  pilot  workshop  aimed  to
+develop  future  leaders  of  laboratory
+safety  teams.  Outcomes  of  this  work-
+shop  were  investigated  through  a  study
+via  surveys  given  before  and  after  the
+workshop.  This  workshop  was  well
+received  overall;  participants 
+found
+the  workshop  useful  and  would  recom-
+mend  it  to  others.  Results  suggest  that
+participants  became  more  conﬁdent  in
+their  ability 
+teach  others  about
+safety  and  gained  an  improved  under-
+standing  of  safety  topics  and  resources.
+There  is  also  evidence  that  the  work-
+shop  changed  the  participant’s  percep-
+tion  of  their  own  career  values  and
+their  institution’s  values  on  laboratory
+safety.  These  results  are  promising  and
+give  us  reason  to  expect  that  programs
+such  as  this  can  be  a  useful  platform  for
+safety  education  and  leadership  devel-
+opment.  Moving  forward,  it  will  be
+critical  to  encourage  open  communi-
+cation  and  resource-sharing  between
+leaders26,27 because  program
+LST 
+complexity  will  be  a  major  hurdle  for
+new  LSTs.  In  addition, 
+interactive
+resources  for  safety  leaders  would  be
+useful  for  the  design  of  new  programs.
+
+ACKNOWLEDGEMENTS
+K.A.M.  was  supported  by  the  National
+Science 
+Graduate
+Research  Fellowship  Program  Grant
+Number  DGE 
+Special
+thanks 
+for
+
+to  Ralph  Stuart,  M.S., 
+
+Foundation 
+
+1746047. 
+
+mentorship  in  the  design  and  scope
+of  this  workshop.  We  also  thank  Pro-
+fessor  Paul  Braun  and  Michail  Vlysidis
+for  insightful  discussions  and  Marta
+Gmurczyk,  Ph.D.,  and  members  of
+the  ACS  Committee  on  Chemical
+Safety,  the  ACS  Division  of  Chemical
+Health  and  Safety,  and  the  ACS  Ofﬁce
+of  Graduate  Education  for  support.
+
+12.  Alaimo,  P.  J.;  Langenhan,  J.  M.;  Tan-
+ner,  M.  J.;  Ferrenberg,  S.  M.  Safety
+teams:  an  approach  to  engage  students
+laboratory  safety.  J.  Chem.  Educ.
+in 
+2010,  87(8),  856.
+
+13.  APLU  Council  on  Research  Task  Force
+on  Laboratory  Safety.  A  Guide 
+to
+Implementing  a  Safety  Culture  in  Our
+Universities.  CoR  Paper  1;  DA.o.P.:
+Washington,  2016.
+
+REFERENCES
+1.  Mulcahy,  M.  B.;  Alice,  Y.;  Gibson,  J.;
+Hildreth,  C.;  Ashbrook,  P.;  Izzo,  R.;
+Backus,  B.  College  and  university  sec-
+tor  response 
+the  U.S.  Chemical
+Safety  Board  Texas  Tech 
+incident
+report  and  UCLA  laboratory  fatality.
+J.  Chem.  Health  Saf. 
+
+2013,  20(2),  6.
+2.  Langerman,  N.  Deaths  continue. 
+2011,  18(4),  38.
+
+Chem.  Health  Saf. 
+
+to 
+
+J.
+
+3.  Hill,  R.  H.  Undergraduates  need  a
+2016,
+
+safety  education!  J.  Chem.  Educ. 
+93(9),  1495.
+
+4.  Staehle,  I.  O.;  Chung,  T.  S.;  Stopin,  A.;
+Vadehra,  G.  S.;  Hsieh,  S.  I.;  Gibson,  J.
+H.;  Garcia-Garibay,  M.  A.  An  approach
+to  enhance  the  safety  culture  of  an  aca-
+demic  chemistry  research  laboratory  by
+addressing  behavioral  factors.  J.  Chem.
+Educ. 
+
+2016,  93(2),  217.
+
+5.  Kumasaki,  M.;  Shoji,  T.;  Wu,  T.  C.;
+Soontarapa,  K.;  Arai,  M.;  Mizutani,  T.;
+Okada,  K.;  Shimizu,  Y.;  Sugano,  Y.
+Presenting  safety  topics  using  a  graphic
+novel,  manga,  to  effectively  teach  che-
+mical  safety  to  students  in  Japan,  Tai-
+wan,  and  Thailand.  J.  Chem.  Educ.
+2018,  95(4),  584.
+
+6.  Matson,  M.  L.;  Fitzgerald,  J.  P.;  Lin,  S.
+relevant,  and
+laboratory  safety  videos.  J.
+
+Creating  customized, 
+engaging 
+Chem.  Educ. 
+
+2007,  84(10),  1727.
+
+game.  J.  Chem.  Educ. 
+
+7.  Gublo,  K.  I.  A  laboratory  safety  trivia
+2003,  80(4),  425.
+8.  Moody,  A.  E.;  Freeman,  R.  G.  Chemical
+safety  and  scientiﬁc  ethics  in  a  sopho-
+J.  Chem.
+more  chemistry 
+Educ. 
+
+1999,  76(9),  1224.
+
+seminar. 
+
+9.  Livingston,  H.  K.  Safety  consideration
+in  research  proposals.  J.  Chem.  Educ.
+1964,  41(10)A785.
+
+10.  Pitt,  M.  J.  Can 
+
+taught?  J.  Chem.  Health  Saf. 
+(12)A312.
+
+laboratory  safety  be
+1988,  65
+
+11.  McGarry,  K.  A.;  Hurley,  K.  R.;  Volp,
+K.  A.;  Hill,  I.  M.;  Merritt,  B.  A.;  Peter-
+son,  K.  L.;  Rudd,  P.  A.;  Erickson,  N.
+C.;  Seiler,  L.  A.;  Gupta,  P.;  et  al.  Stu-
+dent 
+the
+culture  of  safety  in  academic  labora-
+2013,  90(11),
+tories.  J.  Chem.  Educ. 
+1414.
+
+involvement 
+
+improving 
+
+in 
+
+14.  Thorp,  H.  H.  D.;  Dejoy,  D.  M.;  Bercaw,
+J.  E.;  Bergman,  R.  G.;  Deeb,  J.  M.;
+Gibbs,  L.  M.;  Goodson,  T.,  Jr.,  ;  Imada,
+A.  S.;  Jeskie,  K.  B.;  Pentelute,  B.  L.;
+Roberts,  K.  H.;  Schomaker, 
+J.  M.;
+Young,  A.  M.;  Friedman,  D.;  Warden,
+T.  Safe  Science:  Promoting  a  Culture  of
+Safety 
+Chemical
+Research;  The  National  Academies
+Press:  Washington,  DC,  2014.
+
+Academic 
+
+in 
+
+15.  Advancing  Safety  Culture  in  the  Univer-
+sity  Laboratory.  A  Report  of  the  Task
+the  Culture  of
+Force 
+Laboratory  at  Stanford  University.  2018.
+accessed  12/13/2018  https://web.
+stanford.edu/dept/EHS/cgi-bin/lsctf/.
+
+for  Advancing 
+
+16.  Schroder,  I.;  Huang,  D.  Y.  Q.;  Ellis,  O.;
+Gibson,  J.  H.;  Wayne,  N.  L.  Laboratory
+safety  attitudes  and  practices:  a  com-
+parison  of  academic,  government,  and
+industry  researchers.  J.  Chem.  Health
+Saf. 
+
+2016,  23(1),  12.
+
+17.  Nicholson,  D.  G.  Safety  practices:
+industry,  yes—colleges,  ??.  J.  Chem.
+Educ. 
+
+1959,  36(8),  377.
+
+18.  Huston,  E.  M.;  Milligan,  J.  A.;  Powell,  J.
+R.;  Smith,  A.  M.;  Neal,  D.;  Duval,  K.
+M.;  DiNardo,  M.  A.;  Stoddard,  C.;  Bell,
+P.  A.;  Berning,  A.  W.;  et  al.  Develop-
+ment  of  an  undergraduate  course  in
+chemical  laboratory  safety  through  an
+J.
+academic/industrial  collaboration. 
+Chem.  Educ. 
+
+2018,  95(4),  577.
+
+19.  Maral,  P.  S.;  Mousavi,  Z.  S.Anderson,
+Evan  L.;  Stemig-Vindedah,  Amanda;
+Golden,  David;  Christenson,  Gary;
+Lust,  Katherine;  Bu¨ hlmann,  Philippe.
+Stress  and  mental  health  in  graduate
+school:  how  student  empowerment
+creates  lasting  change.  J.  Chem.  Educ.
+2018,  95(11),  1939–1946.
+
+20.  Robert,  H.;  Hill,  D.  C.  F.  Academic
+leaders  create  strong  safety  cultures  in
+J.  Chem.
+colleges  and  universities. 
+2013,  20(5),  27.
+Health  Saf. 
+
+21.  Lakens,  D.  Calculating  and  reporting
+effect  sizes 
+facilitate  cumulative
+science:  a  practical  primer  for  t-tests
+2013,
+and  ANOVAs.  Front.  Psychol. 
+4,  863.
+
+to 
+
+22.  Piasta,  S.;  Justice,  L.  Cohen’s  d  statistic,
+In  Salkind,  N.  (Ed.),  Encyclopedia  of
+Research  Design,  Sage  Publications:
+Thousand  Oaks,  CA,  2010,  pp.  181–186.
+
+Journal  of  Chemical  Health  &  Safety,  May/June  2019 
+
+25
+
+23.  Bergstrom,  L.;  Ward,  E.  C.;  Finizia,  C.
+Voice  rehabilitation  for  laryngeal  can-
+cer  patients:  functional  outcomes  and
+perceptions.  Laryngoscope,
+patient 
+2016,  126(9),  2029.
+
+24.  Cronbach,  L.  J.  Coefﬁcient  alpha  and
+the  internal  structure  of  tests.  Psycho-
+metrika, 
+
+1951,  16(3),  297.
+
+25.  The  Carnegie  classiﬁcation  of  institu-
+learning.  http://
+
+tions  of  higher 
+classiﬁcations.carnegiefoundation.org/,
+accessed  11/27/2018.
+
+26.  Alexander,  J.  M.;  Miller,  I.  A.  T.  Let’s
+talk  about  safety:  open  communication
+for  safer  laboratories.  Organometallics,
+2018,  37(19),  3225.
+
+27.  Stuart,  R.  B.;  McEwen,  L.  R.  The  safety
+use  case:  co-developing  chemical  infor-
+mation  management  and 
+laboratory
+2016,  93
+safety  skills.  J.  Chem.  Educ. 
+(3),  516.
+
+26 
+
+Journal  of  Chemical  Health  &  Safety,  May/June  2019
+
+

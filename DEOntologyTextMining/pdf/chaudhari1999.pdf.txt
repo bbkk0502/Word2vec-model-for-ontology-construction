@@ -1,0 +1,1142 @@
+Chemical Engineering Science 54 (1999) 3643}3651
+
+Hydrogenation of diethyl maleate in a "xed-bed catalytic reactor:
+
+kinetics, reactor modelling and pilot plant studies
+
+R.V. Chaudhari*, R. Jaganathan, S.H. Vaidya, S.T. Chaudhari, R.V. Naik, C.V. Rode
+
+Chemical Engineering Division, National Chemical Laboratory, Dr. Homi Bhabha Road, Pune 411 008, India
+
+Abstract
+
+Hydrogenation of diethyl maleate using copper chromite catalyst was investigated in a "xed-bed reactor with the aim of kinetic
+modelling and reactor performance studies. The e!ect of contact time (W/F), hydrogen pressure (1}5 MPa), and feed composition
+on the global rate of hydrogenation and selectivity was studied. The main products formed were c-butyrolactone (GBL), tetrahy-
+drofuran (THF), diethyl succinate (DES) and 1,4 butanediol (BDO), but the selectivity of THF was higher in comparison to GBL and
+(600 lm were found to be in kinetic regime and both intraparticle and external mass transfer
+BDO in most cases. The results at dP
+’3 mm, intraparticle di!usion e!ects were found to be important. Based on the integral reactor
+resistances were negligible, but for dP
+data, the rate equations have been proposed for various reaction steps assuming single site L}H-type mechanism. Hydrogenation
+experiments were also carried out on a pilot plant scale (1.5 kg catalyst capacity) and the reactor performance was found to agree
+reasonably well with the predictions of a theoretical model. ( 1999 Elsevier Science Ltd. All rights reserved.
+
+Keywords: Catalytic hydrogenation; Fixed-bed reactor; Pilot plant studies; Reactor modelling; Kinetics
+
+1. Introduction
+
+Hydrogenation of diethyl maleate is an industrially
+important reaction for the manufacture of c-butyrolac-
+tone (GBL), 1,4-butanediol (BDO) and tetrahydrofuran
+(THF). THF is used mainly for the manufacture of span-
+dex "bres, polyurethane elastomers and as a solvent for
+various copolymers. GBL and its derivatives are used as
+solvents and intermediates for pharmaceuticals (Mit-
+subishi, 1988), while 1,4 butanediol is a raw material for
+modern
+polybutylene
+terephthalate (PBT)
+(Brownstein and List, 1977). A
+route based on the catalytic hydrogenation of maleic
+anhydride (MAN) or its esters (Harris and Tuck, 1990), is
+gaining more importance because (i) it eliminates the use
+of hazardous raw materials like acetylene, used in the
+conventional Reppe process (Brownstein, 1991) (ii) THF
+can be directly produced without involving a separate
+
+thermoplastics,
+
+engineering
+
+* Corresponding author. Tel.: 0091 203 93041; fax: 0091 203 93260;
+
+e-mail: rvc@ems.ncl.res.in.
+
+step of dehydration of BDO (iii) maleic anhydride is now
+readily available as a cheaper feedstock, based on
+C4 oxidation technologies. The alternatives for conver-
+sion of MAN to THF/GBL/BDO include hydrogenation
+of anhydrous MAN (Kanetaka et al., 1970; Hermann and
+Emig, 1997), aqueous maleic acid solution (Schwartz,
+1995) or dialkyl maleate (Bradley et al., 1982). Among
+these, the process via vapour-phase hydrogenation of
+diethyl or dimethyl maleate using copper-based catalysts
+provides a simpler, low-pressure process at relatively
+milder operating conditions.
+
+The hydrogenation of dialkyl maleate is known to
+occur in the presence of copper-chromite (Blanshtein
+et al., 1973), Cu}Al-borate (Kouba and Zletz, 1986),
+Cu/TiO2 (Irick et al., 1990), and Ru}Sn boride catalysts
+(Deshpande et al., 1990). Liquid-phase hydrogenation
+requires very severe operating conditions (553}573 K and
+20}30 MPa pressure), but, the vapour-phase reaction is
+conveniently carried out at milder conditions such as
+464}523 K and 3}5 Mpa pressure (Bradley et al., 1982).
+Castiglioni et al. (1993) have observed that a partial
+substitution of magnesium ions for the copper ions in-
+creases the productivity of GBL in hydrogenation of
+
+0009-2509/99/$ } see front matter ( 1999 Elsevier Science Ltd. All rights reserved.
+PII: S 0 0 0 9 - 2 5 0 9 ( 9 8 ) 0 0 5 1 1 - 9
+
+
+3644
+
+R.V. Chaudhari et al. /Chemical Engineering Science 54 (1999) 3643}3651
+
+maleic anhydride, inhibiting further hydrogenation reac-
+tions. Turek et al. (1994) investigated hydrogenation of
+dimethyl succinate on supported copper, copper}zinc
+and copper chromite catalysts and discussed the product
+distribution and reaction kinetics.
+
+The previous work on this subject has been mostly
+patented and only limited information is published on
+the nature, composition and characterisation of various
+catalysts. Particularly, there is no signi"cant report on
+the intrinsic kinetics of various reactions involved
+in vapour-phase hydrogenation of diethyl maleate based
+on which a commercial plant is operating (Brownstein,
+1991). The aim of this work was to undertake a detailed
+study on kinetic modelling in a "xed-bed catalytic reac-
+tor using a copper chromite catalyst. The e!ect of liquid
+#ow rate, temperature and hydrogen pressure on the
+reactor performance was investigated and based on these
+data Langmuir}Hinshelwood-type rate equations have
+been proposed. Further, the signi"cance of external and
+intra particle di!usion e!ects have been analysed and
+a theoretical model for a "xed-bed reactor proposed.
+Experimental results were also obtained on a pilot plant
+scale and the results have been compared with theoretical
+predictions.
+
+2. Experimental
+
+2.1. Catalyst and materials
+
+The copper chromite catalyst was prepared by a pro-
+cedure described elsewhere (Lazier and Arnold, 1955).
+This involved co-precipitation of copper chromite from
+the aqueous solution of copper nitrate using ammonium
+chromate followed by "ltration, drying, calcination (at
+553 K) and pelletisation. The smaller size catalyst par-
+ticles were obtained by crushing the pellets and then
+sieving through appropriate mesh size. The prepared
+catalyst had the following speci"cations: copper (mol%):
+31.5; chromium (mol%): 18.5; aluminium (mol%): 30;
+zinc (mol%): 20; surface area (m2/kg): 3.88]104; solid-
+phase density (kg/m3): 4.2]103; porosity: 0.53.
+Hydrogen gas with ’99.98% purity was supplied by
+M/s Indian Oxygen Ltd., Mumbai, and was used directly
+from the cylinder. Diethyl maleate (DEM) ’99.5% pu-
+rity was prepared by esteri"cation of maleic anhydride
+followed by fractional distillation.
+
+2.2. Apparatus
+
+The laboratory scale hydrogenation experiments were
+carried out in a high-pressure catalyst unit supplied by
+M/s Geomechanique, France. The detailed description of
+the set-up used is given by Jaganathan et al. (1998). The
+reactor consisted of a single SS tube with a diameter
+1.9]10~2 m having a maximum catalyst loading capa-
+
+city of 3]10~3 kg. Experiments were also carried out in
+a pilot plant reactor which consisted of a single tube SS
+reactor of 2.5]10~2 m diameter and 3 m length, in which
+1.5 kg of the catalyst was loaded. The maximum operat-
+ing pressure and temperature of the reactor were 4.0 MPa
+and 533 K, respectively. The liquid and gaseous feeds
+were introduced into the reactor from the top, with
+preheated liquid feed through a mixer. The reactor was
+maintained at a desired temperature by circulating hot
+oil through the jacket of the reactor. The products
+coming out of the reactor were cooled and the liquid
+product was collected in the knockout pot. The gases
+containing H2 from reactor exit were further cooled with
+chilled water (!53C) and recycled back to the reactor
+through the compressor.
+
+2.3. Procedure
+
+In a typical hydrogenation experiment, a weighed
+quantity (1]10~3 kg) of catalyst was charged in the
+central portion of the reactor in order to avoid any
+temperature gradients, while the top and bottom por-
+tions were "lled with inert packing (carborundum). The
+reactor was #ushed thoroughly with N2 and then with
+H2 and the catalyst was activated at 473 K, under a con-
+tinuous #ow of H2 (1]10~2 m3/h) at a pressure of
+0.5 MPa, for 72 h. After the catalyst activation and attain-
+ing the set reaction conditions, the liquid reactant (DEM)
+feed was started. The liquid samples were collected peri-
+odically from the gas}liquid separator and were analysed
+by gas chromatography (HP 5840) using a 10% OV-17,
+on chromosorb SS column of 2.5 m length.
+
+3. Results and discussion
+
+Hydrogenation experiments were carried out with the
+aim of (a) kinetic modelling using Cu-chromite catalyst
+and (b) performance of a "xed-bed catalytic reactor at
+laboratory and pilot plant scales. For this purpose, the
+e!ect of temperature, pressure and liquid #ow rate on
+the conversion of diethyl maleate (DEM), diethyl succi-
+nate (DES) and products formation was investigated in
+a temperature range of 463}543 K. The range of condi-
+tions studied was: H2 pressure, 1.98}8.0 Mpa and W/F,
+0.16}0.5 h. In these experiments, the concentrations of
+reactants and products in the exit of the reactor were
+determined from which the conversion and selectivity
+were evaluated.
+
+3.1. Product distribution and selectivity
+
+In the preliminary experiments, the catalyst activity
+pro"le was studied over a prolonged time to ensure
+constancy of the intrinsic catalytic activity for the experi-
+mental duration. It was observed that for hydrogenation
+
+
+R.V. Chaudhari et al. /Chemical Engineering Science 54 (1999) 3643}3651
+
+3645
+
+Fig. 1. Time on stream catalyst activity pro"le. Reaction conditions:
+PH2
+
+"4 MPa; H2 #ow rate"60 Nl/h, DEM feed rate"102 kg/h.
+
+of DEM at 503 K and 4 MPa H2 pressure, the initial
+hydrogenation activity dropped over a period of 40 h
+after which, it remained nearly constant for more than
+300 h (see Fig. 1). Therefore, all the experiments for
+product distribution, kinetic modelling and reactor per-
+formance studies were carried out under steady-state
+conditions (after 50 h of
+initial start up). A typical
+product distribution pattern for di!erent W/F is shown
+in Figs. 2 and 3 for 503 and 523 K.
+
+The main reaction products formed during hydrogen-
+ation of DEM were diethyl succinate, c-butyrolactone,
+tetrahydrofuran (THF), 1,4 butanediol and ethanol. GC
+analysis of a gas sample leaving the reactor showed the
+absence of any gaseous products (hydrocarbons, CO2).
+The analysis of the liquid samples showed that beside the
+above products, formation of n-butanol was negligible
+((0.5%) in all the experiments. These results account for
+more than 95% material balance for the products formed
+in hydrogenation of DEM and represent the reaction
+scheme shown in Fig. 4.
+
+It was generally observed that diethyl maleate was
+completely consumed for all the experiments and the step
+of conversion of DEM to DES was faster than sub-
+sequent hydrogenation to products like THF, GBL and
+BDO. Therefore, the results are presented in terms of
+overall rate of hydrogenation (which represents sum total
+of formation of products DES, THF, GBL and BDO)
+and selectivity. The results are presented in Figs. 5}7. It
+was observed that the rate of hydrogenation increases
+with increase in DEM #ow rate upto 1.5]10~2 kg/h,
+beyond which it has only a marginal e!ect. The rate
+increases linearly with H2 pressure at all temperatures.
+The selectivity of THF was found to increase with a in-
+crease in DES conversion, while the selectivities of GBL
+
+Fig. 2. Concentration pro"le at reactor outlet for 503 K. Reaction
+conditions: PH2
+
+"4 MPa; H2 #ow rate"60 Nl/h.
+
+Fig. 3. Concentration pro"le at reactor outlet for 503 K. Reaction
+conditions: PH2
+
+"4 MPa; H2 #ow rate"60 Nl/h.
+
+and BDO were not strongly in#uenced with change in
+DES conversion for 503 K and 4 MPa pressure of H2.
+
+3.2. Kinetic modelling
+
+In order to study the intrinsic kinetics of hydrogen-
+ation of DEM, it was ensured that the results were
+obtained under kinetically controlled conditions. The
+rate of reaction obtained for the particle sizes between
+
+
+3646
+
+R.V. Chaudhari et al. /Chemical Engineering Science 54 (1999) 3643}3651
+
+Fig. 4. Reaction scheme for hydrogenation of diethyl maleate.
+
+Fig. 5. E!ect of DEM feed rate on hydrogenation of DEM. Reaction
+conditions: PH2
+
+"4 MPa; H2 #ow rate"60 Nl/h.
+
+Fig. 6. E!ect of pressure on hydrogenation of DEM. Reaction condi-
+tions: DEM feed rate"10~2 kg/h; H2 #ow rate"60 Nl/h.
+
+300 and 700 lm were similar. These results indicate that
+for particle size (700 lm, intraparticle di!usion e!ects
+can be considered negligible. All
+further experiments
+"600 lm. In order
+were carried out using a catalyst of dp
+to further con"rm this point, the approximate values of
+the experimental Thiele parameter (Satter"eld, 1970)
+were also evaluated as follows:
+
+/
+
+%91
+
+" d2
+p rl
+4DelCl
+
+.
+
+(1)
+
+For intraparticle di!usion to be negligible, /
+%91 should be
+less than 0.15. Since, hydrogen was used in excess and
+diethyl maleate and other intermediates were limiting
+reactants, the above criteria were applied for observed
+rates of reaction of diethyl maleate, diethyl succinate and
+(600 lm, the experi-
+GBL. It was found that for dp
+%91 values were in a range of 8]10~3}8]10~2
+mental /
+for all the experiments studied. This con"rms kinetic
+regime and absence of intraparticle di!usional limita-
+tions.
+
+
+R.V. Chaudhari et al. /Chemical Engineering Science 54 (1999) 3643}3651
+
+3647
+
+gen is in large excess and hence its concentration in the
+gas-phase is constant; (c) the reactor is operated in a plug
+#ow mode. The following rate equations were proposed
+to represent the intrinsic kinetics of di!erent reaction
+steps shown in Fig. 4.
+"kiASiT for i"1, 2, 3 and 4,
+r1
+ri"kiF@T for i"5 and 6,
+"k7 F@AT
+r7
+where
+„"o
+
+p/(1#KCC#KDD)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+"E
+
+"C, S3
+
+"D, S4
+
+and
+"B, S2
+S1
+(7)
+With A, B, C, D, E, and F@ representing the concentra-
+tions of hydrogen, DEM. DES, GBL, THF, BDO and
+BuOH, respectively. r1}r7 represent the reaction rates of
+various steps given in Fig. 4. The material balance equa-
+tions for the reactants and products in the dimensionless
+form can be described as:
+
+db
+dz
+" g
+
+dc
+dz
+
+dd
+dz
+" g
+
+de
+dz
+
+,
+
+,
+
+Dd)
+
+"g
+
+b(a
+"! g
+1ab)
+(1#K@
+Cc#K@
+1ab!a
+c(a
+2ca)
+Cc#K@
+1#K@
+Dd )
+2ca!a
+3da!a
+d(a
+(1#K@
+Cc#K@
+3da#a
+6 f ]
+Cc#K@
+Dd )
+5 f!a
+Cc#K@
+
+e[a
+(1#K@
+f(a
+
+4da!a
+(1#K@
+g(a
+7 fa)
+#K@
+(1#K@
+D )
+C
+
+" g
+
+"g
+
+,
+
+,
+
+df
+dz
+
+dg
+dz
+
+4da#a
+D d )
+
+5 f )
+
+,
+
+6 f!a
+Dd )
+
+7 fa)
+
+,
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+where z is the dimensionless length of the reactor.
+
+The initial conditions are:
+
+At z"0, a"1; b"1; c"d"e"f"g"0.
+
+(14)
+
+The various dimensionless parameters used in Eqs.
+(8)}(13) are given in Table 1.
+
+The rate and adsorption equilibrium parameters in
+Eqs. (8)}(13) were evaluated by solving Eqs.
+(8)}(13)
+considering g values as unity for the kinetic regime
+"600 lm) and using the Runge}Kutta method of 4th
+(dp
+order combined with an optimisation program to simu-
+late the experimental concentration data at the reactor
+exit. The kinetic parameters evaluated at di!erent tem-
+perature are presented in Table 2.
+
+Fig. 7. E!ect of DEM feed rate on selectivity of products. Reaction
+conditions: PH2
+
+"4 MPa; H2 #ow rate"60 Nl/h; Temp"503 K.
+
+Similarly, in order to evaluate the external mass trans-
+
+fer resistances, a factor a was evaluated as follows:
+
+a" rl
+
+kgapCl
+
+.
+
+(2)
+
+For this purpose, the gas}solid mass transfer coe$cient,
+kg and ap were calculated from the correlation given in
+literature (Satter"eld, 1970). The values of a were found
+to be in the range of 0.01}0.03 for particles (600 lm
+indicating the absence of external mass transfer resist-
+ance for the conditions of the present work.
+
+For the interpretation of the kinetics of a multistep
+catalytic reaction as considered in this work, the conven-
+tional approach of using rate data under di!erential
+conditions is not adequate. This is mainly due to the
+observation that at lower conversion levels of DEM, only
+one of the several reaction steps is predominant and the
+data would not represent the entire reaction scheme as
+described in Fig. 4. Therefore, it is necessary to interpret
+the integral reactor data obtained over a wide range of
+conversions.
+
+A mathematical model was developed for predicting
+the performance of a "xed-bed reactor where the intrinsic
+kinetic regime is controlling. As already discussed this
+regime is applicable to the data obtained after 50 h of
+start of the run for a 600 lm catalyst particle. The kinetic
+parameters were estimated by "tting the reactor exit
+concentration of DES and other reaction products using
+di!erent sets of inlet reaction conditions. The kinetic
+model proposed here is based on a single site Lan-
+gmuir}Hinshelwood-type of mechanism assuming that:
+(a) isothermal conditions prevail in the reactor; (b) hydro-
+
+
+3648
+
+R.V. Chaudhari et al. /Chemical Engineering Science 54 (1999) 3643}3651
+
+P(1!e
+o
+
+Table 1
+Dimensionless parameters used in the model
+c"‚Agi
+"ck3
+a
+3
+"2ck6/Agi
+a
+6
+a"Ag/Agi
+d"D/B0e"E/B0
+
+B)/2ug
+
+"2c k1
+a
+1
+"ck4
+a
+4
+"2ck7
+a
+7
+b"B/B0c"C/B0
+f"F/B0
+
+Table 2
+Rate parameters for overall DEM kinetics
+
+"KcB0
+K@
+c
+d"D/B0
+g"G/B0z"x/‚
+
+"ck2
+a
+2
+"2ck5/Agi
+a
+5
+"KdB0
+K@
+d
+
+Rate constant]10 6 (m3/k mol) (m3/kg s)
+
+Rate constant]103 (m3/kg s)
+
+Adsorption constant (m3/kmol)
+
+Temp.
+(K)
+
+483
+503
+523
+
+k1
+
+285
+375
+545
+
+k2
+
+76
+145.9
+206
+
+k3
+
+70
+150.4
+211
+
+k4
+
+100
+201.2
+301.2
+
+k7
+
+2.98
+4.9
+8.02
+
+k5
+
+0.002
+0.0039
+0.005
+
+k6
+
+0.17
+0.21
+0.41
+
+KC
+
+54.02
+49.02
+45.02
+
+g
+F
+
+0.96
+0.96
+0.98
+
+KD
+
+16.36
+13.36
+10.36
+
+g
+G
+
+0.94
+0.96
+0.99
+
+Table 3
+Catalytic e!ectiveness factor values (g
+
+i) evaluated from experimental data
+
+=/F
+
+3.0
+1.5
+1.0
+
+g
+B
+
+0.30
+0.36
+0.45
+
+g
+C
+
+0.60
+0.75
+0.92
+
+g
+D
+
+0.25
+0.29
+0.35
+
+g
+E
+
+0.95
+0.96
+0.98
+
+A comparison between the model predictions and the
+experimental data at 503 and 523 K is shown in Figs.
+2 and 3, which indicates a good agreement con"rming the
+validity of the proposed kinetic model. The average error
+between the predicted and observed concentration values
+was $7% for all temperatures. From the temperature
+dependence of the rate parameters, the values of activa-
+tion energies were estimated as: 3.41]104, 5.27]104,
+5.77]104, 5.77]104, 4.26]104, 4.64]104 and 5.1]
+104 kJ/kmol for the reaction steps (1)}(7), respectively,
+given in the reaction scheme (Fig. 4).
+
+After determination of intrinsic kinetic parameters, the
+experimental concentration (at reactor exit) vs. =/F data
+"6 mm, were used to evaluate the catalyst e!ec-
+at dp
+(8)}(13). These
+tiveness factor values by solving Eqs.
+values are presented in Table 3. The e!ectiveness factor
+values indicate that intraparticle di!usion limitation was
+signi"cant only for DES, GBL but was negligible for
+THF, BDO and BuOH.
+
+c-Butyrolactone is a major intermediate (Fig. 4) in the
+hydrogenation of diethyl maleate. Hence it was thought
+appropriate to conduct some experiments with GBL as
+a starting feed to study the product distribution and the
+kinetics of
+this individual hydrogenation step. The
+
+hydrogenation of GBL was carried out in a temperature
+range of 483}523 K and various reactor inlet conditions.
+The major products obtained were THF (52% selectivity)
+and BDO (44% selectivity), with GBL conversion of
+40%. It was interesting to observe that with decrease in
+conversion of GBL selectivity to BDO increased which
+was similar to that observed in the case of DEM hydro-
+genation. The major di!erence between DEM and GBL
+as feed for hydrogenation was that in case of DEM
+hydrogenation, THF was the major product (&90%
+selectivity considering converted DEM and DES) while
+BDO formation was much lower (around 3}5%). In
+contrast, BDO and THF formation was almost compa-
+rable in GBL hydrogenation. This indicates that THF
+formation is mainly via GBL hydrogenation rather than
+dehydration of BDO.
+
+Similar to hydrogenation of DEM described above,
+rate equations for the intrinsic kinetics of hydrogenation
+of GBL would be given as
+"kiASiT for i"3 and 4,
+r1
+ri"kiF@T for i"5 and 6,
+"k7 F@AT
+r7
+
+(15)
+
+(16)
+
+(17)
+
+
+R.V. Chaudhari et al. /Chemical Engineering Science 54 (1999) 3643}3651
+
+3649
+
+Table 4
+Rate parameters for GBL kinetics
+
+Temperature
+(K)
+
+Rate constants]106
+(m3/k mol) (m3/kg s)
+
+Rate constant]103
+(m3/kg s)
+
+Adsorption constant
+(m3/kmol)
+
+483
+503
+523
+
+k3
+
+1.88
+4.0
+5.91
+
+k4
+
+56.3
+101.3
+159.7
+
+k7
+
+1.48
+3.93
+6.87
+
+k6
+
+0.071
+0.17
+0.31
+
+KD
+
+24.12
+22.06
+20.02
+
+1, a
+
+2, c and Kc
+
+and the dimensionless material balance equations would
+"0, since
+be given by Eqs. (10)}(13) with a
+the "rst two reactions are absent for the hydrogenation of
+pure GBL. The rate and adsorption equilibrium para-
+meters in the above equations for independent GBL
+hydrogenation kinetics were evaluated using the proced-
+ures as described in the previous section. The values of
+the rate and adsorption constants are given in Table 4.
+A comparison between the model prediction and the
+experimental data at 503 K, is shown in Fig. 8, which
+showed a good agreement. The values of activation ener-
+gies estimated from the Arrhenius plot were 5.81]104,
+5.64]104, 7.69]104 and 8.15]104 kJ/kmol for the reac-
+tion steps 3, 4, 6 and 7, respectively, given in the reaction
+scheme (Fig. 4).
+
+On comparison of the values of rate constants in
+Tables 2 and 4, it was found that the values of k3 repres-
+enting the GBL hydrogenation step in the overall DEM
+hydrogenation is much higher than that of individual
+GBL hydrogenation. This can be due to either GBL
+inhibited kinetics or the competitive adsorption between
+BDO and GBL on the catalyst sites. The possibility of
+blocking the active sites by BDO is more probable than
+THF because in case of DEM hydrogenation inspite of
+very high THF selectivity (90% THF and 3}5% BDO)
+the GBL hydrogenation rates were higher than those
+observed for pure GBL feed. A similar type of competi-
+tive adsorption was observed by Messori and Vaccari
+(1994) in case of solvent and anhydride in the vapour-
+phase hydrogenation of maleic anhydride/GBL solu-
+tions.
+
+4. Pilot plant studies
+
+Hydrogenation of DEM was also investigated on
+a pilot plant scale in which a single tube reactor with
+diameter 2.5]10~2 m and 3 m in length was used with
+a capacity of 1.5 kg catalyst (6 mm dia., pellets). The
+procedure followed for the pilot plant experiments was
+similar to that for a laboratory scale except that the
+experiments were carried out with recycle of H2 gas.
+The conditions at the reactor inlet were so chosen that
+the total #ow rate of H2 including the recycle stream and
+
+Fig. 8. Concentration pro"le at reactor outlet for hydrogenation of
+"4 MPa; H2 #ow rate"60 Nl/h;
+GBL. Reaction conditions: PH2
+Temp"503 K, GBL feed rate"1]10~2 kg/h.
+
+composition of DEM in H2 was in the same range as the
+laboratory scale. The e!ect of contact time (=/F ) and
+H2 pressure on reactant/product concentration in exit
+was investigated. Table 5, shows a comparison of the
+laboratory scale operation with that of the pilot plant
+scale at same temperature and pressure conditions. The
+material balance obtained was excellent (’93%) for all
+the runs and also the conversion and selectivities were
+comparable or even better in some cases. In order to test
+the applicability of the kinetics and "xed-bed reactor
+model for predicting the performance of pilot plant reac-
+tor, the Eqs. (10)}(15) were solved as described earlier
+with catalytic e!ectiveness factor (g
+i) values evaluated
+"6 mm.
+(Table 3) for laboratory scale experiments for dp
+The comparison of predicted results with the experi-
+mental data shows (Fig. 9) reasonable agreement indicat-
+ing validity of the model for the pilot plant data. These
+data were found to be under signi"cant intraparticle
+di!usion limitations but external mass transfer was found
+
+
+3650
+
+R.V. Chaudhari et al. /Chemical Engineering Science 54 (1999) 3643}3651
+
+Table 5
+Comparison of bench scale and pilot plant runs
+
+Parameter
+
+Bench scale
+
+Pilot plant
+
+Remarks
+
+Catalyst loading, kg
+H2 #ow, Nl/h
+DEM #ow, ml/h
+Mole ratio, DEM : H2
+Conversion of DES %
+Selectivity,THF, %
+Selectivity, GBL, %
+Selectivity, BuOH,%
+Selectivity, BDO, %
+GHSV, h~1
+Productivity, mole (THF#GBL)/kg (cat)/h
+
+0.03
+120
+10
+1 : 92
+66
+53
+7
+0.2
+1.8
+5455
+0.70
+
+1.56
+9000
+710
+1 : 126
+69
+55
+16
+0
+0
+7830
+1.12
+
+Scale up of 52 times
+
+Scale up of 71 times
+
+(600 lm with
+found to be kinetically controlled for dp
+negligible intraparticle and external mass transfer resist-
+ance. L}H-type rate equations have been proposed for
+di!erent steps and kinetics and activation parameters
+’3 mm, intraparticle di!usion
+were evaluated. For dp
+e!ects were found to be signi"cant and therefore the data
+were used to evaluate experimental catalyst e!ectiveness
+factors for each species. Hydrogenation experiments were
+also carried out on a pilot plant scale and the experi-
+mental results were found to agree reasonably well with
+the theoretical predictions.
+
+Fig. 9. Conversion vs. =/F plots for pilot plant scale experiments.
+"3 MPa; H2 #ow rate"3000 Nl/h; DEM
+Reaction conditions: PH2
+feed"0.7 kg/h.
+
+to be unimportant. The model proposed here represents
+the experimental data on two di!erent scale satisfactorily.
+
+5. Conclusions
+
+Kinetic modelling of hydrogenation of diethyl maleate
+was studied using a copper chromite catalyst in a "xed-
+bed reactor. The major products formed were tetrahyd-
+rofuran, c-butyrolactone, diethyl succinate alongwith 1,4
+butanediol. A "xed-bed reactor model was used to evalu-
+ate the integral reactor performance in which concentra-
+tion of reactants and products in exit of reactor were
+observed for di!erent inlet concentrations of DEM feed
+rate, H2 pressure and temperatures. The reaction was
+
+Notation
+
+A, B, C,
+D, E, F@
+Agi
+a}g
+
+ap
+
+B0
+
+ci
+Dei
+
+ug
+
+concentrations of hydrogen, DEM, DES,
+GBL, THF, BDO and BuOH, kmol/m3
+inlet concentration of hydrogen, kmol
+dimensionless concentrations of respective
+species
+interfacial area, per unit volume of reactor,
+m~1
+concentration of B at an inlet of the reactor,
+kmol/m3
+concentration of ith component, kmol
+e!ective di!usivity of H2 in liquid "lled pores
+for ith component, m2/s
+diameter of catalyst particle, m
+liquid #ow rate, kg/h
+mass velocity of #uid, kg/s/m2
+adsorption equilibrium constants, m3/kmol
+gas-phase mass transfer coe$cient, ms~1
+
+dp
+F
+G
+KC, KD
+kg
+k1}k4, k7 rate constant, (m3/k mol) (m3/kg s)
+k5, k6
+‚
+Nsc
+r1}r7
+
+rate constant, m3/kg s
+length of catalyst bed, m
+Schmidt’s number
+rate of reaction of DEM, kmol/m3 s~1, given
+by Eqs. (3)}(9)
+gas velocity, m/s
+
+
+R.V. Chaudhari et al. /Chemical Engineering Science 54 (1999) 3643}3651
+
+3651
+
+=
+z
+
+weight of catalyst, kg
+dimensionless length of the reactor
+
+Greek letters
+
+7
+
+a
+1}a
+a
+c
+e
+B
+g
+b}g
+o
+o
+p
+/
+
+parameter de"ned by Eq. (2)
+dimensionless parameters de"ned in Table1
+dimensionless parameter de"ned in Table 1
+void fraction of the catalyst bed
+experimental e!ectiveness factors for species
+from a}g
+density, kg/m3
+particle density, kg/m3
+parameter de"ned by Eq. (1)
+
+References
+
+Bashkirov, A.N., Morozov, L.A., & Prudnikov, A.I. (1975). Nefteel-
+
+chimiya, 16, 230}134, CA, 85: 77548x.
+
+Blanshtein, I.B., Moskovich, Y.L., Mushenku, D.V., Freidin, B.G.,
+Semenova, V.V., & Blandin, Y.V. (1973). USSR Patent. 400, 567,
+CA, 80: 47449v.
+
+Bradley, M.W., Harris, N., & Turner, K. (1990). US Patent 4, 929,777.
+Brownstein, A.M. (1991). 1,4 Butanediol and tetrahydrofuran: Exemp-
+
+lary small } volume commodities. Chemtech, 8, 506.
+
+Brownstein, A.M., & List, H.L. (1977). Which route to 1,4-butanediol.
+
+Hydro. Process., Sept., 159}162.
+
+Castiglioni, G.L., Gazzano, M., Stefani, G., & Vaccari, A. (1993). Selec-
+tive hydrogenation of maleic anhydride by modi"ed copper chro-
+mite catalysts. In M. Guisnet (Ed.), Stud. Sur. Sci. and Cat. (pp.
+275}282), Amsterdam: Elsevier.
+
+Deshpande, V.M., Ramnarayan, K., & Narsimhan, C.S. (1990). Studies
+on Ru}Sn Boride catalysts II. Hydrogenation of fatty acid esters to
+fatty alcohols. J. Catal., 121, 174}182.
+
+Harris, N., & Tuck, M.W. (1990). Butanediol via maleic anhydride.
+
+Hydro. Process., May, 79}82.
+
+Herrmann, U., & Emig, G. (1997). Liquid-phase hydrogenation of
+maleic anhydride and intermediates on copper-based and noble
+metal catalysts. Ind. Eng. Chem. Res., 36, 2885}2896.
+
+Irick, G., Mercer, P.N., Simmons, K.E. (1990). US Patent. 4,929,777.
+Jaganathan, R., Chaudhari, S.T., Rode, C.V., Chaudhari, R.V., & Mills,
+P.L. (1998). Hydrogenation of diethyl adipate in a catalytic "xed bed
+reactor. Ind. Engng Chem. Res. 37, 2099}2106.
+
+Kanetaka, J., Asano, T., & Masamune, S. (1970). New process for
+
+production of tetrahydrofuran. Ind. Engng Chem., 62, 24}32.
+
+Kauba, J.A., & Zletz, A. (1986). US Patent 4,613,707.
+Lazier, & Arnold (1955). Organic synthesis (vol. 6).
+Messori, M., & Vaccari, A. (1994). Reaction pathway in vapour phase
+hydrogenation of maleic anhydride and its esters to c-butyrolac-
+tone. J. Catal., 150, 177}185.
+
+Mitsubishi Kasei Co. (1988). 1,4-butanediol/tetrahydrofuran produc-
+
+tion technology. Chemtech, 12, 759}763.
+
+Satter"eld, C.N. (1970). Mass transfer in heterogeneous catalysis. Boston:
+
+MIT Press.
+
+Schwartz, J.T. (1995). US Patent 5,478,952.
+Turek, T., Trimm, D.L., Black, S.D., & Cant, N.W. (1994). Hydro-
+genolysis of dimethyl succinate on copper-based catalysts. Appl.
+Catal. A, 116, 137}150.
+

@@ -1,0 +1,475 @@
+Pragmatic Innovations in Post-Acute and Long-Term Care Medicine
+
+Feasible new, practical products or approaches intended to improve outcomes or processes in post-acute or long-term care
+
+Adapting Gerontechnological Development to Hospitalized Frail
+Older People: Implementation of the ALLEGRO Hospital-Based
+Geriatric Living Lab
+Frédéric Noublanche MS a,b, Cécile Jaglin-Grimonprez c, Laurence Laignel c,
+Guillaume Sacco MD, PhD a,b, Philippe Allain PhD b,
+Cédric Annweiler MD, PhD a,b,d,*, on behalf of the SAM Group
+a Department of Geriatric Medicine and Memory Clinic, Research Center on Autonomy and Longevity, University Hospital, Angers, France
+b Laboratoire de Psychologie des Pays de la Loire, LPPL EA 4638, SFR Conﬂuences, University Angers and University Nantes, France
+c General Direction, University Hospital, Angers, France
+d Department of Medical Biophysics, Schulich School of Medicine and Dentistry, Robarts Research Institute, The University of Western Ontario, London,
+Ontario, Canada
+
+a b s t r a c t
+
+Gerontechnology aims at improving the functioning of older people and their carers in their daily lives as well as improving gerontological practices. To
+promote gerontechnology innovation in the hospital and bridge the gap between gerontechnology developers and hospitalized frail older patients, our
+objective was to create and implement a hospital-based geriatric living lab. We designed a hospital-based living lab, providing reﬂexive workshops
+bringing around the table gerontechnology users and developers, supplemented with an experimental hospital room receiving both the users and the
+devices to be tested. Three different types of users were distinguished: seriously ill older inpatients, professional hospital caregivers, and informal carers.
+Three different kinds of devices were also distinguished: prototypes under development, new services and/or care organizations, and new uses. Finally,
+we were able to open in 2018 the Angers Living Lab En GéRiatrie hOspitalière (ALLEGRO) hospital-based geriatric living lab. ALLEGRO offers the orga-
+nization of "idea incubator workshops" for users and developers, together with one “experimental hospital room” equipped with validated devices to
+provide reference measures used as a standard to test the diagnostic efﬁcacy of prototypes. The room is intended to accommodate one older inpatient
+with severe acute organic failures. No patient selection is planned at admission, apart from consent to research. Until now, no refusal to participate in a
+study was noted. In conclusion, we offer a new and unprecedented hospital-based geriatric living lab to improve hospital care for older inpatients and to
+promote successful aging through gerontechnology.
+
+Ó 2020 AMDA e The Society for Post-Acute and Long-Term Care Medicine.
+
+Keywords: Gerontechnology, hospital, innovation, living lab, older adults
+
+Problem
+
+The increased number and proportion of older adults worldwide is
+the source of demographic, epidemiological, societal, economic, and
+health challenges.1 A 3-fold increase in the number of people over 85
+is expected in the coming 20 years, notably those designated as “frail”
+
+All projects conducted in the ALLEGRO hospital-based geriatric living lab will be
+approved by either local or national ethics committees, according to the design and
+nature of the studies. Participants will be included after giving their written
+informed consent for research, or their legal representatives’ consent if mental
+capacity is impaired. The studies will be conducted in accordance with the ethical
+standards set forth in the Helsinki Declaration (1983).
+
+C.A.’s program ALLEGRO is supported in part by a grant “Plus de Vie 2017” from
+“Fondation Hôpitaux de Paris Hôpitaux de France.” F.N. is supported by a doctoral
+fellowship grant from Angers Loire Métropole (2018-2021). G.S. is supported by a
+postdoctoral grant from Research Center on Autonomy and Longevity, University
+Hospital of Angers, France (2019-2020). The sponsors had no role in the design and
+conduct of the study, in the collection, management, analysis, and interpretation of
+the data, or in the preparation, review, or approval of the manuscript.
+
+The authors declare no conﬂicts of interest.
+
+* Address correspondence to Cédric Annweiler, MD, PhD, Department of Geriatric
+
+Medicine, Angers University Hospital, 49933 Angers cedex 9, France.
+
+E-mail address: Cedric.Annweiler@chu-angers.fr (C. Annweiler).
+
+https://doi.org/10.1016/j.jamda.2020.01.001
+1525-8610/Ó 2020 AMDA e The Society for Post-Acute and Long-Term Care Medicine.
+
+due to a high number of chronic diseases, a high degree of disability,
+and unsuitable residential, family, and social changes.2 To meet these
+challenges, optimizing the environment to better support and care for
+older adults becomes a priority. The sustainability of an aging society
+depends on its capacity to innovate, including assistive technologies
+that enable independent living and the social participation of older
+people in optimal conditions of health, comfort, and safety.
+
+One solution to face geriatric issues lies on innovation e in
+particular, innovation in new technology applied to older adults. Such
+innovation has been labeled “gerontechnology.”3 Gerontechnology, by
+improving the living environment and compensating for the loss of
+independence and autonomy among frail older adults, has the po-
+tential to sustain and maintain independence at home.3
+
+Unfortunately, the hospital care system remains out of step with
+the emergence of gerontechnology. Hospitals, although caring for
+large numbers of older adults,
+immediate life-
+threatening issues and are understandably less attentive to func-
+tional problems of frail older inpatients. Additionally, it is clear that
+innovations from civil society are generally not designed for hospital
+environment, whether regarding the needs of older inpatients or
+regarding the very speciﬁc regulations of hospital environment.4 This
+suggests that gerontechnology developers, although possessing the
+
+focus on acute,
+
+F. Noublanche et al. / JAMDA 21 (2020) 550e554
+
+551
+
+capacity for innovation, do not apprehend the real needs and expec-
+tations of hospitalized frail older end-users.
+
+We hypothesized that a real-world laboratory, such as a hospital-
+based geriatric living lab, would help to address these issues. Living
+labs are realistic environments designed to create links between
+technology developers and end-users. Living labs enable end-users to
+communicate their needs and expectations directly to technology
+developers (co-design), and to participate in prototype testing (co-
+development).4e8 To our knowledge, to date, no hospital-based geri-
+atric living lab offers an experimental hospital room hosting true older
+inpatients and allowing them to use and test prototypes under
+development.9 Our objective was to create and implement a hospital-
+based geriatric living lab to promote open hospital innovation and
+bridge the gap between gerontechnology developers and hospitalized
+frail older patients.
+
+Innovation
+
+The founding reﬂection was led by the last author (C.A.), who
+brought both clinical experience and questioning as a senior geria-
+trician, clinical research experience as an academic, and overall vision
+as a team manager. A working group involving nurses, research as-
+sistants, administrators, and a patient representative then provided
+the reﬂexive assistance that is necessary to build a coherent and
+efﬁcient project. Past experiences in community living labs, notably
+transcribed in the white paper on living labs,7 were also very helpful.
+
+Speciﬁcations for the Living Lab
+
+First, we started by deﬁning the scope and needs that would justify
+the development of a hospital-based geriatric living lab. A hospital-
+based geriatric living lab would be expected to (1) connect hospital
+users and gerontechnology developers in order to facilitate upward
+(needs expression) and downward (expression of technological pos-
+sibilities) exchanges, and (2) propose a place of care to test the
+acceptability, feasibility, efﬁcacy, reproducibility, reliability, and safety
+of devices under development with true older inpatients.
+
+Second, we deﬁned 3 different types of users who could be assisted
+by gerontechnology innovation in hospitals: the older frail hospital-
+ized inpatients, the professional caregivers in geriatric hospitals, and
+ﬁnally the informal carers of older inpatients.
+
+Third, we listed the hospital needs of older inpatients that would
+justify gerontechnology research: (1) to improve the cure and care of
+the serious pathology that led to hospital admission, (2) to compen-
+sate for disabilities resulting from this serious pathology, (3) to pre-
+vent and/or correct iatrogenic disability, and (4) to promote the return
+home after the hospitalization. These needs are clearly different from
+those faced by older adults when they live at home, which justiﬁes the
+development of hospital-based living labs for gerontechnology dedi-
+cated to geriatric units and hospitals.
+
+Fourth, according to the deﬁnition and perimeter of living labs,6 we
+selected 3 different kinds of devices that would be assessed within the
+hospital-based geriatric living lab: (1) prototypes (ie, devices under
+development and not yet marketed that would be tested by users with
+rapid feedbacks to gerontechnology developers in order to adapt the
+production trajectory), (2) new services and/or new care organiza-
+tions, and (3) potential diversiﬁcations of use of tools that are mar-
+keted either in nonhospital settings or for a nonsenior population.
+
+Fifth, we deﬁned the potential gerontechnology developers with
+whom the living lab would partner. To promote open hospital inno-
+vation, we chose to open the hospital living lab not only to developers
+from the public sector, higher education, and civil society, but also to
+partners from associations and from the private and industrial sectors,
+without considering the size of the company (from startup to large
+industrial groups, if applicable).
+
+Requirements
+
+In order to meet the different needs and to involve the end-users in
+the most realistic way, the geriatric living lab would include a real
+room intended to receive true older inpatients within a geriatric acute
+care unit. Ideally, the unit would be located in a university hospital,
+whose mission combines care, research, and teaching with signiﬁcant
+visibility and a research culture that would foster gerontechnological
+innovation and the acceptance of new concepts. Moreover, the room
+should be realistic and provide common standards of care like any
+hospital room, but also provide dimensions large enough to be able to
+accommodate the devices to be tested. Based on our clinical experi-
+ence with older inpatients, we proposed that the room should be
+equipped with validated devices to provide reference measures and
+monitoring of (1) vital constants and weight, (2) the quantity and
+quality of mobility within the room, and (3) the tracking of falls. We
+also emphasized the needs to equip the room with a large panel of
+plugs and connectors to accommodate diverse proposals for ger-
+ontechnologies to be tested and to anticipate the accessibility of the
+room to technicians for equipment installations and updates. It would
+also be necessary to have a technical room close to the hospital room.
+Finally, having a meeting room would facilitate meetings between
+gerontechnology developers and users.
+
+Operationalization of the Living Lab
+
+The project would require a team of dedicated collaborators with
+the following skills: knowledge in health, technological development,
+marketing, management, and academic research. Because of the aca-
+demic positioning of the living lab in a university hospital, and to
+protect the users’ rights toward experimentation and innovation, we
+proposed a research model based on that of academic research, that is,
+with a scientiﬁc committee to which the project applications would be
+submitted from gerontechnology developers. Consistent with the
+white paper on living labs,7 an ethical agreement would not be
+required at the step of the implementation of the living lab. In
+contrast, each letter of intent retained by the scientiﬁc committee
+would lead to the drafting of an academic research protocol, submit-
+ted to the competent authorities including the ethics committees.
+Written informed consent would then be signed by the userdand by
+the trusted person, if applicabledafter reading the information letter.
+Finally, an economic model should be clearly deﬁned to ensure the
+sustainability of the project, with the hospital providing no other
+funding than that of a standard hospital room with related medical
+and nursing staff. In particular, the sharing of the intellectual property
+of the innovations codesigned and codeveloped in the living lab
+should be negotiated on a case-by-case basis with the partners. The
+search for funding and research grants was also explored from the
+very start of the project.
+
+Implementation
+
+The Angers Living Lab En GéRiatrie hOspitalière (ALLEGRO)
+living lab was ﬁnally delivered in
+hospital-based geriatric
+November 2018 in the Geriatric Department of the University
+Hospital of Angers, France.
+
+ALLEGRO may offer 2 types of services after validation by the
+scientiﬁc committee bringing together user representatives and ex-
+perts from the biomedical, engineering, and internet of things ﬁelds
+(see Figure 1 for the procedural circuit within the ALLEGRO living
+lab).
+
+The ﬁrst service is the organization of “idea incubator workshops”
+gathering around the table the gerontechnology developers and the
+hospital end-users. All types of users can be targeted, that is, the older
+their informal carers, and the professional hospital
+inpatients,
+
+552
+
+F. Noublanche et al. / JAMDA 21 (2020) 550e554
+
+Fig. 1. Procedural circuit for projects within the ALLEGRO hospital-based geriatric living lab. A downloadable PDF of this form is available at www.sciencedirect.com.
+
+F. Noublanche et al. / JAMDA 21 (2020) 550e554
+
+553
+
+caregivers, depending on the developer’s ﬁeld of expertise. Work-
+shops can be offered, for example, so that users can explain clearly
+their daily in-hospital needs and allow developers to use their
+expertise wisely to create projects that meet real expectations.
+Another objective can be to ask the users’ opinions on devices being
+developed about the appearance, the satisfaction of use, the perceived
+utility, or even possible new uses.
+
+The second service is the opening of an “experimental hospital
+room” within the geriatric acute care unit. The spacious room of 24 m2
+is equipped with devices for measuring vital signs (temperature, blood
+pressure, pulse, weight, scope) and with an invisible electronic ﬂoor
+recording all movements in the room and tracking any falls. These
+reference measures are used as a standard to test the diagnostic efﬁ-
+cacy of prototypes tested in the room, for example, those supposed to
+detect falls.
+
+The room is intended to accommodate one older inpatient aged
+75 years and over with severe acute organic failures. No patient
+selection is planned at admission to ensure no recruitment bias,
+and patients are admitted consecutively as in any other room in the
+unit. General information on the living lab is communicated to
+patients and relatives at the time of admission. Then, speciﬁc in-
+is communicated, and the signed
+formation on each protocol
+informed consent
+in
+progress. The studies are conducted in accordance with the ethical
+standards set forth in the Helsinki Declaration (1983). All projects
+conducted in the ALLEGRO hospital-based geriatric living lab are
+approved by ethics committees. Participants are included after
+giving their written informed consent for research, or their legal
+representatives’ consent, if mental capacity is impaired. Patients
+may agree to participate in some protocols, but not all or even none
+if they do not wish to.
+
+is collected separately for each protocol
+
+Evaluation
+
+Frail Older Inpatients Hospitalized in the Living Lab
+
+After less than 4 months of activity, 14 patients (10 females; me-
+dian age, 87 years; median Mini-Mental State Examination score, 19.5/
+30) have been admitted to the ALLEGRO experimental room. The
+hospital emergency department referred 10 patients, whereas the
+other 4 were admitted directly from their homes. In total, 6 patients
+were referred to the department for an acute somatic problem, 5 for a
+cognitive-behavioral problem, and 3 for recurrent falls. Three patients
+usually lived in retirement homes, the others in their private homes.
+The average length of stay in the room was 10.8 days, which was
+similar to other patients in the unit over this period.
+
+Partnerships and Experimentations
+
+As academics, we did not wish to directly solicit the developer
+partners. We initially based our external communication on the
+regional and national mainstream press and by participating in
+several national conferences. This made it possible to share our
+existence and our service offer with developers who were eager to
+extend their market to the hospital world. After less than 4 months
+of activity, 7 gerontechnology developers have already signed a
+partnership agreement with the University Hospital, including 4
+startups and 3 national groups. Several interventions were carried
+out or are programmed in ALLEGRO, including 4 feasibility studies,
+3 satisfaction studies, 3 protocols for a diversiﬁcation of use, 1 test
+of diagnostic efﬁciency and reliability, and 7 reﬂexive workshops.
+For the moment, we have not had a refusal from patients or rela-
+tives to participate in an experiment within the room. No experi-
+ments have yet been proposed to professional caregivers or
+informal carers.
+
+Comment
+
+We were able to set up the ﬁrst hospital-based geriatric living lab
+equipped with an experimental room receiving in the same space both
+seriously ill older inpatients and prototypes of developing ger-
+ontechnologies to be tested. This model should help to bridge the gap
+between gerontechnology developers and frail older inpatients.
+
+Gerontechnology aims to improve the daily lives of older people
+and their carers, as well as gerontological practices. Although many
+startups and businesses have embarked on the creation of innovative
+products or services for home-based care, the hospital environment
+has so far received little attention from the Silver Economy.4 Geriatric
+issues are, however, particularly frequent and serious in hospitals
+because of the large number of older patients, and are signiﬁcantly
+different from those encountered at home because of the severe acute
+organic failures that justify the hospitalization. The organization of
+care in hospitals is not always adapted to frail older people, which
+generates a risk of loss of function called iatrogenic disability.10
+Whether gerontechnologies compensate for or alleviate the deﬁcits
+of older inpatients or whether they stimulate or accentuate their ca-
+pacities, they may improve hospital care for older inpatients and
+promote successful aging. However, the use of gerontechnologies may
+also involve some risks that should call for caution. The ﬁrst one is to
+be driven by the technological innovation capabilities rather than the
+interest of the older person. In this case, the innovative object may
+respond to a need imagined by the developers rather than a need
+actually felt by the older inpatients or the health professionals and will
+not ﬁnd a market. The second risk is that of substitution when ger-
+ontechnology aims to replace caregivers rather than complementing
+one another. This may result in involuntary isolation of the older in-
+patients, for whom human relations remain yet a priority. Assessing
+and avoiding these risks while designing and developing hospital
+tools and services of the future is precisely the reason for the existence
+of the ALLEGRO living lab.
+
+Such a hospital-based geriatric living lab has many strengths and
+interests. First, from the older inpatients’ point of view, the living lab
+may help them meet researchers, industry, and public institutions
+with whom they are usually not in touch, as well as to participate in
+the codesign and codevelopment of new technologies to improve
+hospital care. Second, in terms of industrial valuation, the living lab
+should reduce the development and marketing cycles of products and
+services, reduce development risks, enrich the innovation process by
+promoting a richer connection with users, facilitate the appropriation
+of products and services by users, and ﬁnally identify concrete and
+signiﬁcant applications in hospitals. It is about promoting open hos-
+pital innovation. Third, in terms of economic valuation, the living lab
+makes it possible to explore and discover new desires, to invest in new
+uses, and ﬁnally to identify promising markets. Fourth, in terms of
+academic valuation, the living lab is expected to produce and
+communicate new scientiﬁc knowledge, to add value to the clinical
+trials through gerontechnology, to develop nursing research, and to
+train users (ie, patients and caregivers) in the practical use of ger-
+ontechnologies under realistic conditions.
+
+Our hospital-based geriatric living lab, however, has a certain
+number of already identiﬁable limitations. First, ALLEGRO is limited by
+having only 1 experimental room, which lengthens the duration of
+studies or limits the theoretical number of participants who can be
+included in protocols. However, this limitation should be soon
+amended by the upcoming increase in the amount of experimental
+rooms in the unit. In addition, it is noticeable that some protocols may
+include older inpatients from the geriatric unit who are not neces-
+sarily hospitalized in the experimental room. Second, the ﬁrst stages
+of the ALLEGRO project were carried out thanks to research grants.
+The sustainability of the living lab will, however, depend on our ability
+to develop a viable business model through the ﬁnancial support of
+
+554
+
+F. Noublanche et al. / JAMDA 21 (2020) 550e554
+
+technology developers and/or the co-ownership of jointly created
+innovations. Third, it is of note that being a pioneer in this area, the
+existence of speciﬁcities of care and cure for the hospitalized frail
+older patients is not obvious for most gerontechnology developers,
+and each meeting requires a signiﬁcant amount of explanations and
+pedagogy to explain the interest of exploring and meet these speciﬁc
+needs. Fourth, the very principle of living labs leads to accepting all
+older inpatients usually referred to our unit in order to limit selection
+bias and maintain the comparability, without selection (apart from the
+consent to research). Thus, the population tested in the living lab
+consists mainly of older inpatients with major neurocognitive disor-
+ders and behavioral disorders. The use and interest of a hospital-based
+living lab in this population remains yet unclear thus far, and should
+be subject to further analyses.
+
+Conclusions and Implications
+
+We were able to offer a new and unprecedented service using a
+hospital-based geriatric living lab to improve hospital care for older
+inpatients and promote successful aging through gerontechnology.
+
+Acknowledgments
+
+The authors acknowledge Romain Simon, MSc, Melinda Beau-
+denon, MSc, and Jennifer Gautier, MSc, from the Research Center on
+
+Autonomy and Longevity, University Hospital of Angers, France, for
+daily assistance, and Charlotte Huet, from General direction, Univer-
+sity Hospital of Angers, France, for her help in ﬁnding funding. There
+was no compensation for their contributions.
+
+References
+
+1. Sanderson WC, Scherbov S, Gerland P. Probabilistic population aging. PLoS One
+
+2017;12:e0179171.
+
+2. Cesari M, Calvani R, Marzetti E. Frailty in older persons. Clin Geriatr Med 2017;
+
+33:293e303.
+
+3. Sheets DJ, La Buda D, Liebig PS. Gerontechnology. The aging of rehabilitation.
+
+Rehab Manag 1997;10:100e102.
+
+4. Annweiler C, Noublanche F, Jaglin-Grimonprez C, Bubien Y. Built environments
+
+for frail older adults: The now and next. Maturitas 2018;116:137e138.
+
+5. Kusiak A. Innovation: The living laboratory perspective. Comput Aid Design
+
+Appl 2007;4:863e876.
+
+6. European Network of Living Labs
+
+(ENoLL). Available at: http://www.
+
+openlivinglabs.eu. Accessed July 14, 2019.
+
+7. Dubé C, Sarrailh J, Billebaud C, et al. Qu’est-ce qu’un living lab? Montréal.
+Available at: http://www.montreal-invivo.com/wp-content/uploads/2014/12/
+livre-blanc-LL-Umvelt-Final-mai-2014.pdf; 2004. Accessed December 30, 2019.
+8. Korman M, Weiss PL, Kizony R. Living Labs: Overview of ecological approaches
+
+for health promotion and rehabilitation. Disabil Rehabil 2016;38:613e619.
+
+9. Noublanche F, Jaglin-Grimonprez C, Sacco G, et al. The development of ger-
+ontechnology for hospitalized frail elderly people: The ALLEGRO hospital-based
+geriatric living lab. Maturitas 2019;125:17e19.
+
+10. Sourdet S, Lafont C, Rolland Y, et al. Preventable iatrogenic disability in elderly
+
+patients during hospitalization. J Am Med Dir Assoc 2015;16:674e681.
+
+The pragmatic innovation described in this article may need to be modiﬁed for use by others; in addition, strong evidence does not yet exist
+regarding efﬁcacy or effectiveness. Therefore, successful implementation and outcomes cannot be assured. When necessary, administrative and
+legal review conducted with due diligence may be appropriate before implementing a pragmatic innovation.
+
+
