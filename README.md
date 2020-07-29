@@ -1,9 +1,13 @@
-# Word2vec-model-for-ontology-construction
+# Word2vec-model-for-ontology-construction 
 
-A collection of language model development files used for master thesis 'Ontology construction for Demonstration Environments: A Text Mining Approach'. This thesis specifically used Skip-G model in Gensim Word2vec.
+This repo is a collection of language model development files used for master thesis 'Ontology construction for Demonstration Environments: A Text Mining Approach'. This thesis specifically used Skip-G model in Gensim Word2vec.
 
 # Author and Affiliation
 These codes are developed by Nie Wei a MPhil student at the Institute for Manufacturing, University of Cambridge. Email: wn230@cam.ac.uk
+
+# Project Introduction
+This thesis aims to develop an ontology for Demonstration Environments by using a semi-automatic approach: text mining. The developed ontology is available at https://github.com/bbkk0502/Demonstration-Environments-Ontology-Version1.0
+Demonstration Environments refer to all facilities and environments for technology development including testing, prototyping and confronting technology with different usage situations (e.g. testbed, pilot plant, living lab, sandbox, etc.)
 
 # File Introduction
  * DEOntologyTextMining is the Python project for language model development. It consists of:
@@ -16,5 +20,5 @@ These codes are developed by Nie Wei a MPhil student at the Institute for Manufa
  * ConceptCluster.xlsx is a spreadsheet storing concept hierarchy build in Algorithm 3 (see algorithm.py in DEOntologyTextMining foler.
  * skipg.model is the trained SKIP-G model that was used in the thesis. This can be loaded for direct use (see algorithm.py in DEOntologyTextMining foler for usage)
 
-# Feedback and Request
-Please report bugs or feedbacks to wn230@cam.ac.uk. Due to file size limitation, all articles 
+# Feedback
+Please report bugs or send feedbacks to wn230@cam.ac.uk. 
