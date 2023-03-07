@@ -1,1 +1,7 @@
-
+gensim
+nltk
+collections
+sklearn
+scipy
+re
+itertools
