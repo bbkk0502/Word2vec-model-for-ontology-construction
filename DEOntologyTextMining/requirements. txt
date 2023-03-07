@@ -5,3 +5,5 @@ sklearn
 scipy
 re
 itertools
+numpy
+pandas
